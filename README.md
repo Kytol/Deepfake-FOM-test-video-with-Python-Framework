@@ -2,6 +2,44 @@
 
 [View Test Video](https://www.youtube.com/watch?v=pGPph6JJcNs) <-- 1 Videosta ja 1 kuvasta animoitu video.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Example animations
 
 The videos on the left show the driving videos. The first row on the right for each dataset shows the source videos. The bottom row contains the animated sequences with motion transferred from the driving video and object taken from the source image. We trained a separate network for each task.

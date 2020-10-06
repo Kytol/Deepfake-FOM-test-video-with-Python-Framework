@@ -1,6 +1,6 @@
 # First Order Motion Model for Image Animation
 
---> [View Test Video](https://www.youtube.com/watch?v=pGPph6JJcNs) <--
+--> [View Test Video](https://www.youtube.com/watch?v=pGPph6JJcNs) <-- 1 Videosta ja 1 kuvasta animoitu video.
 
 ## Example animations
 
